@@ -4,7 +4,7 @@ A creative, accessible, and modern web experience designed to make AI easy to ex
 
 🚀 Live Demo
 
-URL: 
+URL: https://github.com/arathy6324/AI-for-Everyone.git
 
 
 📌 Overview
